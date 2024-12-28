@@ -1,4 +1,4 @@
-                                                                        **Weather Forecasting using Machine Learning**
+                                           **Weather Forecasting using Machine Learning**
 
 This project utilizes machine learning techniques to predict weather patterns. The development process involved the following steps:
 
@@ -17,13 +17,12 @@ This project utilizes machine learning techniques to predict weather patterns. T
 - Pickle for model saving and loading
 - Streamlit for model deployment and web application development
 
-Project Structure
-
+**Project Structure**
 This repository contains the following files and directories:
 
-- [insert file/directory names and descriptions]
+- https://github.com/GouthamCodes/Machine-Learning..git
 
-Getting Started
+**Getting Started**
 
 To run the project, follow these steps:
 
@@ -31,10 +30,7 @@ To run the project, follow these steps:
 2. Install the required libraries using pip install -r requirements.txt
 3. Run the Streamlit application using streamlit run (link unavailable)
 
-Contributions
-
+**Contributions
+**
 Contributions to this project are welcome! If you'd like to improve the model's accuracy or add new features, please submit a pull request with your changes.
 
-License
-
-This project is licensed under [insert license name].
